@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
-  <img align="right" alt="sprite" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/finalfantasy/images/b/b7/FFXIV_Main_Scenario_Quest_Icon.png/revision/latest/scale-to-width-down/174?cb=20210415062031">
+  <img align="right" alt="sprite" height="150" style="border-radius:50px;" src="https://www.pngitem.com/pimgs/m/609-6092449_computer-pixel-art-png-transparent-png.png">
 </div>
 
   ##
