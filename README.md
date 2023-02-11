@@ -19,7 +19,7 @@
 
 
 
-- 🔭 I’m currently working on [My Anime Streaming Website]([mudiaUON.github.io/Portfolio/](https://github.com/MudiaUON/Anime_Steaming_Website)])
+- 🔭 I’m currently working on [My Anime Streaming Website](mudiaUON.github.io/Portfolio/](https://github.com/MudiaUON/Anime_Steaming_Website))
 
 - 🌱 I’m currently learning **React and Javascript**
 
